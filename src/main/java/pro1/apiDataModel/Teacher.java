@@ -13,5 +13,5 @@ public class Teacher
     @SerializedName("prijmeni")
     public String surname;
     @SerializedName("email")
-    public String  email;
+    public String email;
 }
