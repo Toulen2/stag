@@ -23,10 +23,9 @@ public class Main7 {
                 filter(r -> r != null).
                 distinct().
                 sorted().
-                collect(Collectors.joining(", "));
+                collect(Collectors.joining(","));
 
         return specializationDeadline;
 
     }
-
 }
