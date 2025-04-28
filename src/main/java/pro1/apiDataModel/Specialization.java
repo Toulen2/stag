@@ -13,5 +13,5 @@ public class Specialization {
     public String oborNazev;
 
     @SerializedName("eprDeadlinePrihlaska")
-    public Deadline eprDeadlinePrihlaska;
+    public Deadline DeadlinePrihlaska;
 }
